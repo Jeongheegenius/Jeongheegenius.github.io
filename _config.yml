@@ -287,3 +287,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
