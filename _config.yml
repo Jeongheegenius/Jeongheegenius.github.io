@@ -112,7 +112,7 @@ author:
       url: "mailto:jeonghee070911@naver.com"
     - label: "전 포트폴리오"
       icon: "fas fa-fw fa-link"
-      url: "https://jeonghee.kro.kr"
+      url: "http://jeonghee.kro.kr"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
