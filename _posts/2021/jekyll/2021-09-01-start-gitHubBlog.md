@@ -9,7 +9,6 @@ related: true
 popular: true
 toc: true
 toc_sticky: true
-toc_label: 목차
 description: 만들기에는 노가다가 있었지만 다 만들고 나서 뿌듯한 상태로 올리는 첫 글
 article_tag1: GitHub(GitBlog) 블로그
 article_tag2: minimal-mistakes
