@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Jeonghee"
   avatar           : "/assets/images/profile_2.jpg"
-  bio              : "개발하기 싫다"
+  bio              : "코딩하기 싫다"
   location         : "Republic of Korea"
   email            :
   links:
@@ -137,7 +137,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/jeongheegenius"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
