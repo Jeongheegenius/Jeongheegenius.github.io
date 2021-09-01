@@ -8,7 +8,7 @@ share: true
 related: true
 popular: true
 categories:
-- 일상
+- daily life
 toc: true
 toc_sticky: true
 toc_label: 목차
