@@ -15,7 +15,7 @@ article_tag2: minimal-mistakes
 article_tag3: Jekyll
 article_section: 깃허브 블로그 시작
 meta_keywords: 깃블로그,GitBlog,GitHub블로그
-last_modified_at: 2021-09-21T00:00:00+08:00
+last_modified_at: 2021-09-01T00:00:00+08:00
 ---
 
 내가 이 블로그를 얼마나 만들고 싶었으면.. 
