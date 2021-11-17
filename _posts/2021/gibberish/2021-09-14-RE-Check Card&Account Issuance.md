@@ -32,4 +32,4 @@ last_modified_at: 2021-11-17T21:00:00+09:00
 
 아 그리고 오늘 수능 전날이라 내가 보는 스트리머가 신청곡을 받는다 하니 수능이신 분들은 아래 링크로 와서 한번씩 신청곡 신청하시길..
 
-https://www.twitch.tv/flowergam0326/ (오뱅 9시!)
+[https://www.twitch.tv/flowergam0326/](https://www.twitch.tv/flowergam0326/) (오뱅 9시!)
